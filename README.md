@@ -1,3 +1,11 @@
+
+<span align="right" width="50" height="50"> 
+ 
+ ![](https://komarev.com/ghpvc/?username=isMikehere&color=green&style=flat&label=Profile+Views)
+
+</span>
+
+
 ### Hi there 👋
 
 #### I am software developer from Toronto, Canada.  
